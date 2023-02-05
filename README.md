@@ -4,7 +4,7 @@ Olá, me chamo **Doralice Mota**, uma recifense com bastante determinação. Sou
 
 Aqui tento trazer um pouco do que venho estudando e me dedicando diariamente.
 
-> 📚 Atualmente estou me aprofundando em HTML, CSS e JavaScript.
+> 📚 Atualmente estou me aprofundando em *HTML*, *CSS* e *JavaScript*.
 
 <div align="center">
   <a href="https://github.com/doramota">
