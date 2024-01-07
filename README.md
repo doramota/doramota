@@ -1,4 +1,4 @@
-## Olá! Sou a Dora Mota 💻⚡
+## Olá! Sou a Doralice Mota 💻⚡
 
 Olá, me chamo **Doralice Mota**, uma recifense com bastante determinação. Sou aluna do curso **Análise e Desenvolvimento de Sistemas** pela Faculdade Senac-PE, através do programa Embarque Digital (uma parceria entre a Prefeitura do Recife e o Porto Digital).
 
